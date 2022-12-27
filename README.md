@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShynarZhakan
 - 👀 I’m interested in IT world
-- 🌱 I’m currently learning QA, Python, algorithms.  
+- 🌱 I’m currently learning QA, Python, C#, algorithms.  
 - 📫 You can reach me via email: schubblezam@gmail.com
 
 <!---
